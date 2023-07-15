@@ -1,5 +1,23 @@
-/*
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Space+Grotesk:wght@600&display=swap');
 
-Là faut mettre du CSS du Turfu
+#title {
+    font-weight: 900;
+    font-family: "Space Grotesk";
+    font-size: 200px;
+}
 
-*/
+* {
+    font-family: "Space Grotesk";
+}
+
+#main {
+    width: 965px;
+}
+
+/*#desc {
+    text-align: left;
+}*/
+
+#sectiontitles {
+    font-size: 50px;
+}
